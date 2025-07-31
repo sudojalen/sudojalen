@@ -40,7 +40,7 @@ Here are some of the tools and technologies I have experience with:
 ### 📊 My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudojalen&show_icons=true&theme=cobalt&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja1enfreeman&layout=compact&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudojalen&layout=compact&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
