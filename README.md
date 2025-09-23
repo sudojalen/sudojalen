@@ -8,9 +8,9 @@ I’m an IT professional with a background in computer science and cybersecurity
 
 ## 🚀 Projects
 
-- [Project 1 Title](#) – Short description.  
-- [Project 2 Title](#) – Short description.  
-- [Project 3 Title](#) – Short description.  
+- [Ubuntu User and Permissions](https://github.com/sudojalen/UbuntuUserAndPermission) 
+- [Powershell Helpdesk Automation](https://github.com/sudojalen/PowershellHelpdeskAutomation)
+- [Random Password Generator](https://github.com/sudojalen/Random_Password_Generator?tab=readme-ov-file) 
 
 ---
 
