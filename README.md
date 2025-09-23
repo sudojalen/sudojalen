@@ -1,4 +1,4 @@
-# Jalen Freeman
+# Hi, I'm Jalen Freeman
 
 ### 👋 Information Technology Specialist | AI & Cyber Operations
 
