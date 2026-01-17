@@ -4,7 +4,6 @@
 
 I am an IT professional with a strong foundation in Computer Science and Cybersecurity. My focus is on developing secure, efficient systems and exploring the intersections of software development and digital privacy.
 
----
 
 ## 🎓 Education
 - **Master of Science in Cybersecurity:** Currently pursuing advanced studies focused on network security, threat mitigation, and information assurance.
@@ -15,7 +14,6 @@ I am an IT professional with a strong foundation in Computer Science and Cyberse
 - **Technical Specialist:** Proven track record of managing complex technical environments, hardware-to-software integration, and system automation.
 - **Software Development:** Hands-on experience with C++, Python, and script automation to streamline workflows and enhance system security.
 
----
 
 ## 📫 Connect With Me
 
